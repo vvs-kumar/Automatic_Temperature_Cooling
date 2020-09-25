@@ -1,0 +1,1 @@
+Download the ino file and directly open it with Arduino.
